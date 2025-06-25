@@ -6,3 +6,6 @@ pandas
 numpy
 plotly
 requests
+gym
+sentence-transformers 
+faiss-cpu
