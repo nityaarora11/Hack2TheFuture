@@ -1,0 +1,10 @@
+venv/
+path/
+*.csv
+*.ipynb
+.DS_Store
+__pycache__/
+*.pyc
+notebooks/
+tests/
+docs/ 
