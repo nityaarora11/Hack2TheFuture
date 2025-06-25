@@ -1,6 +1,0 @@
-id,issue_description,resolution
-1,Unable to login to Salesforce,Reset the user's password and cleared browser cache.
-2,Reports are not loading in Lightning Experience,Checked user permissions and disabled browser extensions.
-3,Email notifications are not being sent,Verified email deliverability settings and checked email logs.
-4,Custom object records not visible to some users,Updated profile permissions and shared the object with the correct role hierarchy.
-5,Dashboard components showing incorrect data,Refreshed dashboard data sources and checked report filters. 
