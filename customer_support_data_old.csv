@@ -1,0 +1,31 @@
+error_description,product_name,customer_details,severity,resolution_type,resolution_details,customer_feedback
+Login failed - Invalid credentials,WebApp Pro,Premium User - 2 years,High,Password Reset,Reset password and enabled 2FA,Excellent - 5 stars
+Payment processing error,E-Commerce Suite,New Customer - 1 month,Critical,Payment Gateway Fix,Updated payment gateway configuration,Good - 4 stars
+App crashes on startup,Mobile App,Enterprise Client - 3 years,High,Bug Fix,Fixed memory leak in startup sequence,Very Good - 4 stars
+Slow loading times,Cloud Platform,SMB Customer - 6 months,Medium,Performance Optimization,Optimized database queries and caching,Satisfactory - 3 stars
+Data sync issues,CRM System,Enterprise Client - 1 year,Medium,Configuration Update,Updated sync settings and retry logic,Good - 4 stars
+API timeout errors,API Gateway,Developer - 3 months,High,Infrastructure Scaling,Increased server capacity and timeout limits,Excellent - 5 stars
+Email delivery failed,Email Service,Marketing Team - 1 year,Medium,Service Configuration,Fixed SMTP settings and delivery rules,Good - 4 stars
+Dashboard not loading,Analytics Platform,Data Analyst - 2 years,High,Frontend Fix,Fixed JavaScript errors and improved loading,Very Good - 4 stars
+Backup restoration failed,Backup Service,IT Admin - 4 years,Critical,Data Recovery,Manual data recovery and backup verification,Poor - 2 stars
+Integration broken,Third-party API,Developer - 6 months,High,API Update,Updated API endpoints and authentication,Good - 4 stars
+Report generation error,Reporting Tool,Manager - 1 year,Medium,Bug Fix,Fixed report template and data filtering,Satisfactory - 3 stars
+User permissions issue,Access Control,HR Manager - 2 years,Medium,Permission Update,Updated user roles and access levels,Good - 4 stars
+Database connection lost,Database Service,DBA - 5 years,Critical,Infrastructure Fix,Restored database connections and monitoring,Excellent - 5 stars
+File upload failed,File Storage,Content Creator - 1 year,Medium,Storage Fix,Increased storage limits and improved upload,Good - 4 stars
+Search not working,Search Engine,Researcher - 3 years,High,Index Rebuild,Rebuilt search index and optimized queries,Very Good - 4 stars 
+User cannot reset password via mobile app,Mobile App,Premium,High,Password Reset,Reset password and enabled 2FA,Excellent - 5 stars
+User cannot reset password via mobile app,Mobile App,Premium,High,Bug Fix,Fixed password reset bug in mobile app,Good - 4 stars
+User cannot reset password via mobile app,Mobile App,Premium,High,Configuration Update,Updated mobile app config for password reset,Satisfactory - 3 stars
+I'm unable to understand you,I dont know,who cares,High,Password Reset,Reset password and enabled 2FA,0
+I'm unable to understand you,I dont know,who cares,High,Bug Fix,Fixed password reset bug in mobile app,0
+I'm unable to understand you,I dont know,who cares,High,Configuration Update,Updated mobile app config for password reset,0
+who are you,me,you,High,Password Reset,Reset password and enabled 2FA,0
+who are you,me,you,High,Bug Fix,Fixed password reset bug in mobile app,0
+who are you,me,you,High,Configuration Update,Updated mobile app config for password reset,0
+Search not working,Search Engine,Researcher,High,Payment Gateway Fix,,0
+Search not working,Search Engine,Researcher,High,Infrastructure Fix,,0
+Search not working,Search Engine,Researcher,High,Permission Update,,0
+Search not working,Search Engine,Researcher,High,Data Recovery,,0
+Search not working,Search Engine,Researcher,High,Index Rebuild,,0
+Search not working,Search Engine,Researcher,High,Performance Optimization,,0
